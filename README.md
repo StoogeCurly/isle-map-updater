@@ -21,6 +21,9 @@ Inspired by **GitHub Muslix / the-isle-map-updater**.
 - 💾 **Saved Settings** - Saves your map, hotkey, and calibration point
 - 🖥️ **Simple GUI** - Easy-to-use desktop interface
 
+
+![Isle Map Updater GUI](https://github.com/StoogeCurly/isle-map-updater/blob/main/assets/gui-preview.png?raw=true)
+
 ---
 
 ## 📋 Requirements
